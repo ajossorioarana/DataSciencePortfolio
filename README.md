@@ -8,6 +8,4 @@ Feel free to reach out if you are interested in what I've been doing here or to 
 
 ### 1. [EDA on argentine lakes and reservoir dataset](/EDA_arg_lakes/)
 
-### 2. [EDA on Cal Newport's podcast](/EDA_podcast_CN/)
-
-### 3. [Analysis of Amateur Radio Operators in Argentina](/ham_radio/)
+### 2. [Analysis of Amateur Radio Operators in Argentina](/ham_radio/)
